@@ -12,7 +12,7 @@ public class SwappingNumber {
 
         temp = x;
         x = y;
-        y = temp; 
+        y = temp;
 
         System.out.println("After Swapping:");
         System.out.println("x = " + x);
