@@ -3,6 +3,9 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Increment &amp; Decrement" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RelationOperators" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Variable-Inputuser" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
